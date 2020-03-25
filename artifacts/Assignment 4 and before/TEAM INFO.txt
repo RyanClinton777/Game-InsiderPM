@@ -1,0 +1,11 @@
+The team is called Yogurt, and the members so far are as follows:
+>Ryan Clinton (g00377007)- Software Engineer/Coder, Hobbies: Fighting Games
+>Fionn Browne (g00373152) - Project Owner - Hobbies: Racing
+>Saleh Adam (g00374853) - Software Engineer/Coder - Hobbies: Driving
+
+This team is in group A.
+
+Project repository
+https://github.com/salehadam1/YogurtPMProject
+
+If we do not end up getting more members from other groups I guess we will end up taking on multiple roles each.
