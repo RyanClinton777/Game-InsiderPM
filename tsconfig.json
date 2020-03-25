@@ -1,6 +1,8 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "resolveJsonModule": true,  //allows us to import the local JSON file
+    "esModuleInterop": true, //Don't know what this does but needed for above
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "sourceMap": true,

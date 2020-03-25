@@ -1,5 +1,18 @@
 <div>
     <!-- Will populate this div area with sub areas for each article, probably get them from a JSON file. -->
-    <h1>Articles here</h1>
-    <p>testing</p>
+    <h1>Articles</h1>
+
+    <!-- Line divider -->
+    <hr>
+
+    <!-- Display contents from JSON file -->
+    <div *ngFor="let article of articleData" style="border-style: none;">
+        <div style="border-style: none;">
+            <h2>{{article.Title}}</h2>
+            <p>{{article.Content}}</p>
+            <hr>
+        </div>
+    </div>
+
+
 </div>
